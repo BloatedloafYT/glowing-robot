@@ -9,5 +9,7 @@ but heres the thing: the game #evloves.
 this one part im talking about, is actually a variant of the timed blocks, which is a variant of another jump-on-a-button-and-it-works block.
 this game is very creative.
 
-please support the developer by buying this game[@this game](https://elastiskalinjen.itch.io/i-demand-coffee)
+please support the developer by buying this game[this game](https://elastiskalinjen.itch.io/i-demand-coffee)
+
+<iframe src="https://discord.com/widget?id=966783947566616607&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
