@@ -4,7 +4,7 @@ there's this one part that really gets to me in [I Demand Coffee](https://elasti
 
 
 the game has a unique mechanic to its name: a float button. holding down the "x" key while in the air will make you float, almost forever. however, the creator desided to add a more unique level. the level'ds design is like this: you have to jump up to avoid the fall down but after falling, you deside to float your way up to the other side. but when you land on the weird patterns, you say "hey, i can walk on these."
-![level](article/images/Screenshot (8).png "a title")
+![level](article/images/Screenshot (8).png "a title")<img src="/article/images/Screenshot 2022-04-21 120820.jpg" width="40%">
 
 but heres the thing: the game #evloves.
 this one part im talking about, is actually a variant of the timed blocks, which is a variant of another jump-on-a-button-and-it-works block.
